@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Download ChatGPT's voice
 // @namespace    https://github.com/DrNaki
-// @version      1.2
+// @version      1.2.1
 // @description  Automatically downloads the audio file when playing chatgpt's read aloud. 当播放chatgpt的朗读时，自动将声音文件下载下来
 // @author       Naki
 // @copyright    2024, Naki (https://github.com/DrNaki)
@@ -9,6 +9,9 @@
 // @homepageURL  https://github.com/DrNaki/AutoDownloadChatGPTVoice
 // @supportURL   https://github.com/DrNaki/AutoDownloadChatGPTVoice/issues
 // @match        *://chatgpt.com/*
+// @icon         https://github.com/DrNaki/AutoDownloadChatGPTVoice/blob/main/img/favicon-32x32.630a2b99.png
+// @compatible   chrome
+// @compatible   firefox
 // @grant        none
 // @run-at       document-start
 // @downloadURL  https://update.greasyfork.org/scripts/495120/Auto%20Download%20ChatGPT%27s%20voice.user.js
