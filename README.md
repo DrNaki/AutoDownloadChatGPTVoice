@@ -1,5 +1,12 @@
 # AutoDownloadChatGPTVoice
 
+## Description
+TTS (Text-to-Speech) via ChatGPT. Automatically downloads the audio file when ChatGPT's read aloud button is clicked. 
+
+-----
+
+通过ChatGPT实现文本转语音(当播放chatgpt的朗读时，自动将声音文件下载下来)
+
 ## Overview
 
 When you ask ChatGPT to read a piece of text, it does so with a very natural and fluent voice, and you can even adjust its tone during the conversation. This makes ChatGPT an excellent TTS(text-to-speech) tool. However, OpenAI does not provide a way to download the audio file (even if you ask ChatGPT to send the audio as a file), which is where the AutoDownloadChatGPTVoice script comes in. This Tampermonkey script is designed to capture the request data when you click the read-aloud button below the ChatGPT text, decode it, and convert it into a `.aac` file for download.

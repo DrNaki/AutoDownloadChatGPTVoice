@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Auto Download ChatGPT's voice
 // @namespace    https://github.com/DrNaki
-// @version      1.2.1
-// @description  Automatically downloads the audio file when playing chatgpt's read aloud. 当播放chatgpt的朗读时，自动将声音文件下载下来
+// @version      1.2.2
+// @description  TTS (Text-to-Speech) via ChatGPT. Automatically downloads the audio file when ChatGPT's read aloud button is clicked. 通过ChatGPT实现文本转语音(当播放chatgpt的朗读时，自动将声音文件下载下来)
 // @author       Naki
 // @copyright    2024, Naki (https://github.com/DrNaki)
 // @license      MIT
